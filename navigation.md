@@ -2,6 +2,6 @@
 
 [gimmick:theme](journal)
 
-[Home](home.md)
+[Guides](guides.md)
 [About](about.md)
 [gimmick:themechooser](Theme)
